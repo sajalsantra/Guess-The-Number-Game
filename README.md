@@ -33,7 +33,7 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
 ## **Download Source Code** 📥
 <div align = "center">
     <a href="https://code.visualstudio.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Download-VS%20-Orange?style=flat-square">
+        <img src="https://img.shields.io/badge/Download-VS%20-Orange?style=flat-square" size="20px">
     </a>
 </div>
 <br>
