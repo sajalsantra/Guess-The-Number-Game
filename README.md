@@ -3,9 +3,11 @@
     <br>
     <b>Guess The Number</b>
     <br>
+    <button>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/Download-VS%20-Orange?style=flat-square">
     </a>
+        </button>
     <a href="https://www.jetbrains.com/idea/" target="_blank">
         <img src="https://img.shields.io/badge/Download-Idea%20-Orange?style=flat-square">
     </a>
