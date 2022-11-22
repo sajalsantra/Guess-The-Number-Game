@@ -35,6 +35,9 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
     <a  target="_blank" href="https://ftlb.herokuapp.com/wpVvbWnCn2k=">
         <img src="https://img.shields.io/badge/Source%20Code-.java%20-Orange?style=flat-square" size="20px">
     </a>
+    <a  target="_blank" href="https://ftlb.herokuapp.com/wpVvbWnCn2k=">
+        <img src="https://img.shields.io/badge/Source%20Code-.class%20-Orange?style=flat-square" size="20px">
+    </a>
 </div>
 <br>
 
