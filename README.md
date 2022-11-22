@@ -30,7 +30,7 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
 7. The score then will store in the high score text file in the scores folder
 8. When you score higher compare inside the text file, it will overwrite
 
-## **Download Source Code** 🔥
+## **Download Source Code** 📥
 <br>
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/Download-VS%20-Orange?style=flat-square">
