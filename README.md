@@ -31,7 +31,7 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
 8. When you score higher compare inside the text file, it will overwrite
 
 ## **Download Source Code** 📥
-<div>
+<div align = "center">
     <a href="https://code.visualstudio.com/" target="_blank">
         <img src="https://img.shields.io/badge/Download-VS%20-Orange?style=flat-square">
     </a>
