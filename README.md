@@ -26,9 +26,6 @@ A Laboratory Exercise in Computer Programming 2 that implements the Try and Catc
 3. When you guess incorrectly, the status will change that help you figure out the number
 4. Upon guessing the correct number, the question mark is replace with a correct number
 5. You can continue the game repeatedly
-6. Upon clicking the back to menu, the game will end
-7. The score then will store in the high score text file in the scores folder
-8. When you score higher compare inside the text file, it will overwrite
 
 ## **Download Source Code** 📥
 <div >
